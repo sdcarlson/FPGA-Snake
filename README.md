@@ -12,10 +12,10 @@ The snake game is a classic game that has been played for decades, providing ent
 Snake Game on the Digilent Basys 3 FPGA board using Microblaze and the following peripheral PMODs: 
 * OLEDrgb -> display used to display the snake game
 * JSTK -> joystick used to control the snake's movements
+
 The game also utilizes the following built in peripherals on the Basys 3: 
 * Seven segment display -> displays user's score
 * Button -> resets the user's score and restarts the game
 
 <img width="684" alt="Screen Shot 2024-01-22 at 11 58 28 AM" src="https://github.com/sdcarlson/FPGA-Snake/assets/66243744/8dd790de-8424-4a21-82eb-710f25f7ebb0">
-* Image of FPGA and peripherals setup for the game
 
