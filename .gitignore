@@ -1,0 +1,27 @@
+# Vivado project and build outputs
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+*.xpr
+*.jou
+*.log
+*.str
+*.bit
+*.dcp
+.Xil/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Vitis workspace
+.metadata/
+_ide/
+Debug/
+Release/
+*.elf
+*.xsa
